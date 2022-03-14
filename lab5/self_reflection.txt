@@ -1,0 +1,63 @@
+You must answer at least 4 questions, but the remaining ones are optional. The main goal of this file is to get you thinking critically about your own work, but we will also use these self reflections at the end of the semester when we do our internal review of the course.
+
+ArrayDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+A: I think that I could change my resize function in the arrayDeque.
+
+Q: What's something you felt proud of in your code, if anything?
+
+A: I'm proud of the start index for nextLast and nextFirst in the arrayDeque.
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A: I think my resize is too long where I did not use a for loop.
+
+Q: What did you learn by talking to your partner about writing ArrayDeque?
+
+A: I should simplify my ArrayDeque code use the interface.
+
+Q: What do you wish you would have known before writing ArrayDeque, if anything?
+
+A: I should know that I could use for loop in the resize. and use the special math for finding the correct index.
+
+Q: If you wrote ArrayDeque again, what would you do differently, if anything?
+
+A: Ya, I will change my resize and make it shorter and simpler.
+
+-----
+
+LinkedListDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+A: I got same solution as the staff solution
+
+Q: What's something you felt proud of in your code, if anything?
+
+A: I figured out how to add and remove a Node from the LinkedList.
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A:
+
+Q: What did you learn by talking to your partner about writing LinkedListDeque?
+
+A:
+
+Q: What do you wish you would have known before writing LinkedListDeque, if anything?
+
+A: Yes. Maybe I could like store the item in a variable then I won't be use sentinel.next.prev something like this.
+
+Q: If you wrote LinkedListDeque again, what would you do differently, if anything?
+
+A:
+
+-----
+
+Meta:
+
+Q: Did you like this design review process? Anything we should do differently next time?
+
+A: yes. I hope maybe there could be 2 people at one time.
